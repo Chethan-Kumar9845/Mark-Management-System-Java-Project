@@ -19,42 +19,18 @@ A desktop-based Java application designed to manage student marks efficiently. T
 ## 🖼️ Screenshots
 
 ### Dashboard
-![Index Page](https://github.com/Chethan-Kumar9845/Mark-Management-System-Java-Project/blob/main/Screenshots/index.png?raw=true)
+![Iindex](https://github.com/Chethan-Kumar9845/Mark-Management-System-Java-Project/blob/main/Screenshots/index.png?raw=true)
 
 
 ### Add New Mark
-![Add Mark Page](https://github.com/Chethan-Kumar9845/Mark-Management-System-Java-Project/blob/main/Screenshots/addmark.png)
+![addmark](https://github.com/Chethan-Kumar9845/Mark-Management-System-Java-Project/blob/main/Screenshots/addmark.png)
 
 ### Display Mark
-![Vie](https://github.com/Chethan-Kumar9845/Mark-Management-System-Java-Project/blob/main/Screenshots/displaymark.png)
+![displaymark](https://github.com/Chethan-Kumar9845/Mark-Management-System-Java-Project/blob/main/Screenshots/displaymark.png)
 
-### View Records
-![View Records](https://github.com/Chethan-Kumar9845/Mark-Management-System-Java-Project/blob/main/Screenshots/view_records.png?raw=true)
+### Report Generate
+![Tooper list](https://github.com/Chethan-Kumar9845/Mark-Management-System-Java-Project/blob/main/Screenshots/report_generate_toppers.png?raw=true)
 
-> ⚠️ **Make sure the above image paths exactly match the filenames and folder structure in your repo.** If the `Screenshots` folder or file names differ, adjust accordingly.
-
----
-
-## 🛠️ Technologies Used
-
-- **Java** – Core programming language.
-- **Java Swing** – For building the GUI.
-- **MySQL** – Backend database.
-- **JDBC** – To connect Java with MySQL.
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Java JDK installed
-- MySQL server
-- IDE (e.g., Eclipse, NetBeans)
-
-### Installation Steps
-
-1. **Clone the Repository**
    ```bash
    git clone https://github.com/Chethan-Kumar9845/Mark-Management-System-Java-Project.git
 ﻿# Mark-Management-System-Java-Project
