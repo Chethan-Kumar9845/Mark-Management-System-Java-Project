@@ -26,7 +26,7 @@ A desktop-based Java application designed to manage student marks efficiently. T
 ![addmark](https://github.com/Chethan-Kumar9845/Mark-Management-System-Java-Project/blob/main/Screenshots/addmark.png)
 
 ### Display Mark
-![displaymark](https://github.com/Chethan-Kumar9845/Mark-Management-System-Java-Project/blob/main/Screenshots/displaymark.png)
+![displaymark](https://github.com/Chethan-Kumar9845/Mark-Management-System-Java-Project/blob/main/Screenshots/markdisplay.png)
 
 ### Report Generate
 ![Tooper list](https://github.com/Chethan-Kumar9845/Mark-Management-System-Java-Project/blob/main/Screenshots/report_generate_toppers.png?raw=true)
