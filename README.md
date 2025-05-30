@@ -28,9 +28,18 @@ A desktop-based Java application designed to manage student marks efficiently. T
 ### Display Mark
 ![displaymark](https://github.com/Chethan-Kumar9845/Mark-Management-System-Java-Project/blob/main/Screenshots/markdisplay.png)
 
+### Update Mark
+![updatemark](https://github.com/Chethan-Kumar9845/Mark-Management-System-Java-Project/blob/main/Screenshots/markupdate.png)
+
+
 ### Report Generate
 ![Tooper list](https://github.com/Chethan-Kumar9845/Mark-Management-System-Java-Project/blob/main/Screenshots/report_generate_toppers.png?raw=true)
 
-   ```bash
+---
+
+ **Clone the Repository**
+
+```bash
+git clone https://github.com/Chethan-Kumar9845/Mark-Management-System-Java-Project.git
    git clone https://github.com/Chethan-Kumar9845/Mark-Management-System-Java-Project.git
 ﻿# Mark-Management-System-Java-Project
