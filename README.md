@@ -18,14 +18,15 @@ A desktop-based Java application designed to manage student marks efficiently. T
 
 ## 🖼️ Screenshots
 
-### Login Page
-![Login Page](https://github.com/Chethan-Kumar9845/Mark-Management-System-Java-Project/blob/main/Screenshots/login.png?raw=true)
-
 ### Dashboard
-![Dashboard](https://github.com/Chethan-Kumar9845/Mark-Management-System-Java-Project/blob/main/Screenshots/dashboard.png?raw=true)
+![Index Page](https://github.com/Chethan-Kumar9845/Mark-Management-System-Java-Project/blob/main/Screenshots/index.png?raw=true)
 
-### Add Student
-![Add Student](https://github.com/Chethan-Kumar9845/Mark-Management-System-Java-Project/blob/main/Screenshots/add_student.png?raw=true)
+
+### Add New Mark
+![Add Mark Page](https://github.com/Chethan-Kumar9845/Mark-Management-System-Java-Project/blob/main/Screenshots/addmark.png)
+
+### Display Mark
+![Vie](https://github.com/Chethan-Kumar9845/Mark-Management-System-Java-Project/blob/main/Screenshots/displaymark.png)
 
 ### View Records
 ![View Records](https://github.com/Chethan-Kumar9845/Mark-Management-System-Java-Project/blob/main/Screenshots/view_records.png?raw=true)
